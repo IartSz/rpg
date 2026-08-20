@@ -1,0 +1,52 @@
+{
+  "items": [
+    {
+      "id": "espada_oxidada",
+      "nombreMostrado": "Espada Oxidada",
+      "descripcion": "Una espada vieja y desgastada, pero mejor que nada.",
+      "tipo": "Arma",
+      "rareza": "Comun",
+      "bonusDaño": 5,
+      "bonusDañoPorSegundo": 0,
+      "bonusOroPorSegundo": 0,
+      "costoCompra": 50,
+      "nivelMinimoRequerido": 1
+    },
+    {
+      "id": "espada_acero",
+      "nombreMostrado": "Espada de Acero",
+      "descripcion": "Forjada con acero de buena calidad, corta con precisión.",
+      "tipo": "Arma",
+      "rareza": "PocoComun",
+      "bonusDaño": 15,
+      "bonusDañoPorSegundo": 0,
+      "bonusOroPorSegundo": 0,
+      "costoCompra": 250,
+      "nivelMinimoRequerido": 5
+    },
+    {
+      "id": "anillo_codicia",
+      "nombreMostrado": "Anillo de la Codicia",
+      "descripcion": "Un anillo antiguo que atrae oro hacia su portador.",
+      "tipo": "Accesorio",
+      "rareza": "Raro",
+      "bonusDaño": 0,
+      "bonusDañoPorSegundo": 0,
+      "bonusOroPorSegundo": 2.5,
+      "costoCompra": 800,
+      "nivelMinimoRequerido": 10
+    },
+    {
+      "id": "armadura_dragon",
+      "nombreMostrado": "Armadura de Escamas de Dragón",
+      "descripcion": "Forjada con escamas de un dragón ancestral. Casi indestructible.",
+      "tipo": "Armadura",
+      "rareza": "Legendario",
+      "bonusDaño": 0,
+      "bonusDañoPorSegundo": 50,
+      "bonusOroPorSegundo": 0,
+      "costoCompra": 15000,
+      "nivelMinimoRequerido": 40
+    }
+  ]
+}
